@@ -1,0 +1,22 @@
+One theoretical idea I've had for a while of an app I could build is a wiki called "WikiKey", "the free online answer key that anyone can edit". The primary function of the site is that editors can post test questions and their possible solutions. For readers, the questions are looked up for the answers to be found on their respective pages, much like how Wikipedia works.
+
+Such solutions to be offered:
+* Answers to multiple choice questions.
+* Example essays for essay questions.
+* Fill-in-the-blank answers.
+* Answers to puzzles such as crosswords and word searches.
+
+A lot of how these would be implemented well on a wiki is up for debate.
+
+The site will offer some other features, to better serve the primary function of the site:
+* Information about the question, like the name of the source document containing the question and when the source document was written. This can be used for societal context, i.e. if answers considered correct reflect the time in which they were written.
+* Explanations for why a certain answer is correct and others are wrong.
+* Translations (of foreign questions and answers) to English.
+* "See also" sections for similar questions.
+* References and links to external reading material, for readers who want to expand their knowledge on a broader topic beyond the context of the one question.
+
+Currently nothing like WikiKey exists in wiki form. The closest thing I can think of is WikiAnswers, but their concept isn't based so heavily on source material as my idea.
+
+WikiKey would be a useful resource for students and teachers and the like to quickly find answers to questions on assignments and tests. It wouldn't just blindly give readers the answer and nothing more, but could also explain why the answer is correct and why others are incorrect, and can give a plethora of other useful information about the question and the topic as well.
+
+My idea was unfortunately abandoned because of the realization I had that including large amounts of questions and answers from quizzes and tests on a wiki could be considered copyright infringement in many cases, so the site is a lot less legally safe than wikis I normally work on.
